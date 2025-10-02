@@ -1,0 +1,1 @@
+Upload tuyện đọc, file pdf chuyển thành text sau đó qua model để chuyển thanh speech
